@@ -40,6 +40,7 @@ section{
     border-radius:3px;
     font-size: 20px;
     padding: 0 10px;
+    margin: 10px 0;
 }
 #btn{
     display:block;
