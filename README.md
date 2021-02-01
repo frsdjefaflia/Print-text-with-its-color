@@ -6,3 +6,5 @@
 
 
 A quick application that prints any text with the chosen color how: You can enter text and then choose the color. Later, the text will be printed with the color you choose
+
+https://frsdjefaflia.github.io/Print-text-with-its-color-JS10/
